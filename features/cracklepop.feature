@@ -8,5 +8,5 @@ Feature: Write a program that prints out the numbers 1 to 100 (inclusive).
     Given I have a CracklePop
 
   Scenario: CracklePop
-    When I run it for 15 times
+    When I run it
     Then it behaves correctly
